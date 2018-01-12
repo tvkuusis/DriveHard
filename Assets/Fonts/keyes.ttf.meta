@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7d58e6f0ac43a9d419256729636d5e69
+timeCreated: 1506273418
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Keyes
+  fontNames:
+  - Keyes
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
