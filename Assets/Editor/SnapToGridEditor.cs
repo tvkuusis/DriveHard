@@ -45,7 +45,7 @@ public class SnapToGridEditor : Editor {
         SnapToGrid actor = target as SnapToGrid;
         Event e = Event.current;
         switch (e.type) {
-            case EventType.keyDown: {
+            case EventType.KeyDown: {
                     if (Event.current.keyCode == (KeyCode.Tab)) {
                         Undo.RecordObject(actor.transform, "Rotated object");
                         actor.Rot();
